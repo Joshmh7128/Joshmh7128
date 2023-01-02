@@ -6,5 +6,3 @@
 - :paintbrush: Want to see what I've made? Check out my portfolio here: https://joshhirshfield.com/
 - :thought_balloon: If you have any questions about my work feel free to email me. 
 - :video_game: Looking for the Godwalker Discord server? https://discord.gg/A4nQENzvmn
-
-### My pins consist of the latest builds of Godwalker and EOS-503
