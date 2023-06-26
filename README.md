@@ -9,7 +9,7 @@
 - 🖋️ Looking for the Godwalker Notion? https://www.notion.so/GODWALKER-bad8924bde4242398c083403d2a08ae3
 
 ### Some of my repos you might enjoy:
-- The public branch of my Thesis Game: https://github.com/Joshmh7128/GODWALKER-Public
-- 3D art style exploration museum made during an MFA independent study: https://github.com/Joshmh7128/StyleExploration
-- Small game built to showcase procedural language learning capabilities of players: https://github.com/Joshmh7128/LanguageGame
-- Group of builds for my previous game, Rock Hopper: https://github.com/Joshmh7128/Rock-Hopper-Builds
+- Godwalker Public Fork: https://github.com/Joshmh7128/GODWALKER-Public
+- 3D art style exploration: https://github.com/Joshmh7128/StyleExploration
+- Procedural language game: https://github.com/Joshmh7128/LanguageGame
+- Rock Hopper Builds: https://github.com/Joshmh7128/Rock-Hopper-Builds
