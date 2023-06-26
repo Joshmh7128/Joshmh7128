@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-- :mechanical_arm: My main project is my MFA Thesis: Godwalker, a fast-paced roguelike FPS. 
+- :mechanical_arm: Currently working on a series of projects, including Godwalker, Afterimage, and loads of prototypes.
 - :mortar_board: I’m currently learning to make 3D art within forced constraints, build adaptive sound & music in games
 - :email: How to reach me: joshua.hirshfield+github@gmail.com, @josh on Discord
 - :paintbrush: Want to see what I've made? Check out my portfolio here: https://joshhirshfield.com/
