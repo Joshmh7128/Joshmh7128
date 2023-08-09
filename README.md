@@ -6,7 +6,7 @@
 - :paintbrush: Want to see what I've made? Check out my portfolio here: https://joshhirshfield.com/
 - :thought_balloon: If you have any questions about my work feel free to email me. 
 - :video_game: Looking for the Godwalker Discord server? https://discord.gg/A4nQENzvmn
-- 🖋️ Looking for the Godwalker Notion? https://www.notion.so/GODWALKER-bad8924bde4242398c083403d2a08ae3
+- 🖋️ Looking for my blog? https://blog.joshhirshfield.com/
 
 ### Some of my repos you might enjoy:
 - Godwalker Public Fork: https://github.com/Joshmh7128/GODWALKER-Public
