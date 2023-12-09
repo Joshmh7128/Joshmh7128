@@ -2,8 +2,8 @@
 
 - :mechanical_arm: Currently working on a series of projects, including Godwalker, Afterimage, and loads of prototypes.
 - :mortar_board: I’m currently learning to make 3D art within forced constraints, build adaptive sound & music in games
-- :email: How to reach me: joshua.hirshfield+github@gmail.com, @josh on Discord
-- :paintbrush: Want to see what I've made? Check out my portfolio here: https://joshhirshfield.com/
+- 📫 How to reach me: joshua.hirshfield+github@gmail.com, @josh on Discord
+- 🎨 Want to see what I've made? Check out my portfolio here: https://joshhirshfield.com/
 - :thought_balloon: If you have any questions about my work feel free to email me. 
 - :video_game: Looking for the Godwalker Discord server? https://discord.gg/A4nQENzvmn
 - 🖋️ Looking for my blog? https://blog.joshhirshfield.com/
