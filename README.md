@@ -10,6 +10,4 @@
 
 ### Some of my repos you might enjoy:
 - Godwalker Public Fork: https://github.com/Joshmh7128/GODWALKER-Public
-- 3D art style exploration: https://github.com/Joshmh7128/StyleExploration
-- Procedural language game: https://github.com/Joshmh7128/LanguageGame
-- Rock Hopper Builds: https://github.com/Joshmh7128/Rock-Hopper-Builds
+- Nuclear Throne Game Feel Study: https://joshmh7128.github.io/Nuclear-Throne-Game-Feel-Study/
